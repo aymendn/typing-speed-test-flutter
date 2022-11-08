@@ -1,6 +1,6 @@
 # Typing Speed Test for Web/Desktop ⌨
 
-A web & desktop app made with ♥ & Flutter 💙, to test your typing speed.
+A web & desktop app made with ♥ & Flutter 💙, to test your typing speed and accuracy.
 
 Design inspired by: [typing.gg](https://typings.gg)
 
