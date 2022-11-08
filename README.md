@@ -1,16 +1,35 @@
-# typing
+# Typing Speed Test for Desktop ⌨
 
-A new Flutter project.
+A desktop app made with ♥ & Flutter 💙, to test your typing speed.
 
-## Getting Started
+Design inspired by: [typing.gg](https://typings.gg)
 
-This project is a starting point for a Flutter application.
+![Typing Speed Test for Desktop ⌨](thu.png)
 
-A few resources to get you started if this is your first Flutter project:
+## 📁 Download for Android
+[CLICK HERE]() to download.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ⚙ Installation steps
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can copy anything from the code source.
+
+If you want to get the full project:
+
+```
+git clone https://github.com/aymendn/typing-speed-test-flutter.git
+cd typing-speed-test-flutter
+flutter packages get
+flutter run
+```
+
+## 🧑 Author
+
+__Aymen Dennoub__
+
+If you liked the repo then kindly support it by giving it a star ⭐!
+
+## 🤝 Contribution
+
+- [fork my repository](https://github.com/aymendn/typing-speed-test-flutter/fork)
+
+- [create issue](https://github.com/aymendn/typing-speed-test-flutter/issues/new)
