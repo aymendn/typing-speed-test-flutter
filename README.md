@@ -6,8 +6,8 @@ Design inspired by: [typing.gg](https://typings.gg)
 
 ![Typing Speed Test for Desktop ⌨](thu.png)
 
-## 📁 Download for Android
-[CLICK HERE]() to download.
+## 📁 Download for Windows
+[CLICK HERE](https://raw.githubusercontent.com/aymendn/typing-speed-test-flutter/main/window-release.zip) to download.
 
 ## ⚙ Installation steps
 
