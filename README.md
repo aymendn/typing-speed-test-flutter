@@ -1,12 +1,17 @@
-# Typing Speed Test for Desktop ⌨
+# Typing Speed Test for Web/Desktop ⌨
 
-A desktop app made with ♥ & Flutter 💙, to test your typing speed.
+A web & desktop app made with ♥ & Flutter 💙, to test your typing speed.
 
 Design inspired by: [typing.gg](https://typings.gg)
 
 ![Typing Speed Test for Desktop ⌨](thu.png)
 
+## 🌐 Preview on Web
+
+[**https://aymendn.github.io/typing-speed-test-flutter**](https://aymendn.github.io/typing-speed-test-flutter)
+
 ## 📁 Download for Windows
+
 [CLICK HERE](https://raw.githubusercontent.com/aymendn/typing-speed-test-flutter/main/window-release.zip) to download.
 
 ## ⚙ Installation steps
